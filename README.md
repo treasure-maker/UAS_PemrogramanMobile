@@ -1,16 +1,6 @@
-# flutter_application_1
+# Implementasi UI UAS Pemrograman Mobile
+<img width="195" alt="image" src="https://github.com/treasure-maker/flutter_application_1/assets/85723866/ba182ee5-71fe-41c2-9baa-b85704e438e5">
+<img width="193" alt="image" src="https://github.com/treasure-maker/flutter_application_1/assets/85723866/95139eb1-5a4f-41ab-8c65-232780b3a6d7">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Badge Developer Android
+<img width="487" alt="image" src="https://github.com/treasure-maker/flutter_application_1/assets/85723866/052d716b-6365-440c-a799-0fc3ae536e40">
